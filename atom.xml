@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>lxying</title>
+  <icon>https://www.gravatar.com/avatar/3f5c7d09c11a1b45028e95e6377d27e8</icon>
+  <subtitle>知非诗诗 未为其其</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://shen-yu.gitee.io/"/>
+  <updated>2020-07-10T02:51:03.848Z</updated>
+  <id>https://shen-yu.gitee.io/</id>
+  
+  <author>
+    <name>Eric Shen</name>
+    <email>85385@qq.com</email>
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>npm常用命令记录</title>
+    <link href="https://shen-yu.gitee.io/2020/ckcfmdpfd000005fydztafqh1/"/>
+    <id>https://shen-yu.gitee.io/2020/ckcfmdpfd000005fydztafqh1/</id>
+    <published>2020-07-10T02:38:14.000Z</published>
+    <updated>2020-07-10T02:51:03.848Z</updated>
+    
+    <content type="html"><![CDATA[<h4 id="检查本机上是否已经存在SSH-Key"><a href="#检查本机上是否已经存在SSH-Key" class="headerlink" title="检查本机上是否已经存在SSH Key"></a>检查本机上是否已经存在SSH Key</h4><p>打开终端，输入如下命令</p><p>方法一：</p><figure class="highlight js"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">cd .ssh</span><br><span class="line">ls -la</span><br></pre></td></tr></table></figure><p>方法二：</p><figure class="highlight js"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">ls -al ~<span class="regexp">/.ssh</span></span><br></pre></td></tr></table></figure>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h4 id=&quot;检查本机上是否已经存在SSH-Key&quot;&gt;&lt;a href=&quot;#检查本机上是否已经存在SSH-Key&quot; class=&quot;headerlink&quot; title=&quot;检查本机上是否已经存在SSH Key&quot;&gt;&lt;/a&gt;检查本机上是否已经存在SSH Key&lt;/h4&gt;&lt;p&gt;打开终端，输
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>webpack深入学习</title>
+    <link href="https://shen-yu.gitee.io/2020/ck6w9vqly0001i5uv8zw83dlg/"/>
+    <id>https://shen-yu.gitee.io/2020/ck6w9vqly0001i5uv8zw83dlg/</id>
+    <published>2020-02-21T14:08:14.000Z</published>
+    <updated>2020-02-21T14:31:24.440Z</updated>
+    
+    <content type="html"><![CDATA[<p>多多岛</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;多多岛&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://shen-yu.gitee.io/2020/ck6w9vqlr0000i5uv9a3g51j9/"/>
+    <id>https://shen-yu.gitee.io/2020/ck6w9vqlr0000i5uv9a3g51j9/</id>
+    <published>2020-02-21T11:59:23.204Z</published>
+    <updated>2020-02-21T11:59:23.204Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+</feed>
