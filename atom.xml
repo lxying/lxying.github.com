@@ -62,6 +62,28 @@
   </entry>
   
   <entry>
+    <title>hexo提交到git上报错 - You must verify your email address</title>
+    <link href="https://shen-yu.gitee.io/2020/02/21/hexo%E6%8A%A5%E9%94%99/"/>
+    <id>https://shen-yu.gitee.io/2020/02/21/hexo%E6%8A%A5%E9%94%99/</id>
+    <published>2020-02-21T14:08:14.000Z</published>
+    <updated>2020-07-10T04:03:49.491Z</updated>
+    
+    <content type="html"><![CDATA[<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><span class="line">remote: You must verify your email address.</span><br><span class="line">remote: See https:&#x2F;&#x2F;github.com&#x2F;settings&#x2F;emails.</span><br><span class="line">fatal: unable to access &#39;https:&#x2F;&#x2F;github.com&#x2F;lxying&#x2F;lxying.github.io.git&#x2F;&#39;: The requested URL returned error: 403</span><br><span class="line">FATAL Something&#39;s wrong. Maybe you can find the solution here: https:&#x2F;&#x2F;hexo.io&#x2F;docs&#x2F;troubleshooting.html</span><br><span class="line">Error: Spawn failed</span><br><span class="line">    at ChildProcess.&lt;anonymous&gt; (&#x2F;Users&#x2F;xyingliu&#x2F;self&#x2F;代码&#x2F;myBlog&#x2F;blog&#x2F;node_modules&#x2F;hexo-util&#x2F;lib&#x2F;spawn.js:51:21)</span><br><span class="line">    at ChildProcess.emit (events.js:310:20)</span><br><span class="line">    at Process.ChildProcess._handle.onexit (internal&#x2F;child_process.js:275:12)</span><br></pre></td></tr></table></figure><ul><li>出现原因：<br>  您必须验证您的电子邮件地址<ol><li>点击跳转到’<a href="https://github.com/settings/emails&#39;" target="_blank" rel="noopener">https://github.com/settings/emails&#39;</a> 这个git地址下，</li><li>找到verify email address 这个按钮，</li><li>去邮箱验证地址</li></ol></li></ul><p>验证了之后再次提交就可以啦</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
     <title>Hello World</title>
     <link href="https://shen-yu.gitee.io/2020/02/21/hello-world/"/>
     <id>https://shen-yu.gitee.io/2020/02/21/hello-world/</id>
