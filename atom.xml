@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>lxying</title>
-  <icon>https://www.gravatar.com/avatar/3f5c7d09c11a1b45028e95e6377d27e8</icon>
+  <icon>https://www.gravatar.com/avatar/bc059a6fdce5d353f20dad4531a75cc2</icon>
   <subtitle>知非诗诗 未为其其</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="https://shen-yu.gitee.io/"/>
+  <link href="https://github.com/lxying/lxying.github.io/"/>
   <updated>2020-07-10T02:51:03.848Z</updated>
-  <id>https://shen-yu.gitee.io/</id>
+  <id>https://github.com/lxying/lxying.github.io/</id>
   
   <author>
     <name>Eric Shen</name>
-    <email>85385@qq.com</email>
+    <email>18800168665@163.com</email>
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
     <title>npm常用命令记录</title>
-    <link href="https://shen-yu.gitee.io/2020/ckcfmdpfd000005fydztafqh1/"/>
-    <id>https://shen-yu.gitee.io/2020/ckcfmdpfd000005fydztafqh1/</id>
+    <link href="https://github.com/lxying/lxying.github.io/2020/ckcfmdpfd000005fydztafqh1/"/>
+    <id>https://github.com/lxying/lxying.github.io/2020/ckcfmdpfd000005fydztafqh1/</id>
     <published>2020-07-10T02:38:14.000Z</published>
     <updated>2020-07-10T02:51:03.848Z</updated>
     
@@ -40,8 +40,8 @@
   
   <entry>
     <title>webpack深入学习</title>
-    <link href="https://shen-yu.gitee.io/2020/ck6w9vqly0001i5uv8zw83dlg/"/>
-    <id>https://shen-yu.gitee.io/2020/ck6w9vqly0001i5uv8zw83dlg/</id>
+    <link href="https://github.com/lxying/lxying.github.io/2020/ck6w9vqly0001i5uv8zw83dlg/"/>
+    <id>https://github.com/lxying/lxying.github.io/2020/ck6w9vqly0001i5uv8zw83dlg/</id>
     <published>2020-02-21T14:08:14.000Z</published>
     <updated>2020-02-21T14:31:24.440Z</updated>
     
@@ -63,8 +63,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://shen-yu.gitee.io/2020/ck6w9vqlr0000i5uv9a3g51j9/"/>
-    <id>https://shen-yu.gitee.io/2020/ck6w9vqlr0000i5uv9a3g51j9/</id>
+    <link href="https://github.com/lxying/lxying.github.io/2020/ck6w9vqlr0000i5uv9a3g51j9/"/>
+    <id>https://github.com/lxying/lxying.github.io/2020/ck6w9vqlr0000i5uv9a3g51j9/</id>
     <published>2020-02-21T11:59:23.204Z</published>
     <updated>2020-02-21T11:59:23.204Z</updated>
     
