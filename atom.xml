@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>lxying</title>
+  <title>前端求索之路</title>
   
   <subtitle>知非诗诗 未为其其</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="https://shen-yu.gitee.io/"/>
+  <link href="https://lxying.github.io/"/>
   <updated>2020-07-10T02:51:03.848Z</updated>
-  <id>https://shen-yu.gitee.io/</id>
+  <id>https://lxying.github.io/</id>
   
   <author>
-    <name>Eric Shen</name>
+    <name>只道寻常</name>
     
   </author>
   
@@ -18,8 +18,8 @@
   
   <entry>
     <title>npm常用命令记录</title>
-    <link href="https://shen-yu.gitee.io/2020/07/10/npm%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4%E8%AE%B0%E5%BD%95/"/>
-    <id>https://shen-yu.gitee.io/2020/07/10/npm%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4%E8%AE%B0%E5%BD%95/</id>
+    <link href="https://lxying.github.io/2020/07/10/npm%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4%E8%AE%B0%E5%BD%95/"/>
+    <id>https://lxying.github.io/2020/07/10/npm%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4%E8%AE%B0%E5%BD%95/</id>
     <published>2020-07-10T02:38:14.000Z</published>
     <updated>2020-07-10T02:51:03.848Z</updated>
     
@@ -40,8 +40,8 @@
   
   <entry>
     <title>webpack深入学习</title>
-    <link href="https://shen-yu.gitee.io/2020/02/21/notes/"/>
-    <id>https://shen-yu.gitee.io/2020/02/21/notes/</id>
+    <link href="https://lxying.github.io/2020/02/21/notes/"/>
+    <id>https://lxying.github.io/2020/02/21/notes/</id>
     <published>2020-02-21T14:08:14.000Z</published>
     <updated>2020-02-21T14:31:24.440Z</updated>
     
@@ -63,8 +63,8 @@
   
   <entry>
     <title>hexo提交到git上报错 - You must verify your email address</title>
-    <link href="https://shen-yu.gitee.io/2020/02/21/hexo%E6%8A%A5%E9%94%99/"/>
-    <id>https://shen-yu.gitee.io/2020/02/21/hexo%E6%8A%A5%E9%94%99/</id>
+    <link href="https://lxying.github.io/2020/02/21/hexo%E6%8A%A5%E9%94%99/"/>
+    <id>https://lxying.github.io/2020/02/21/hexo%E6%8A%A5%E9%94%99/</id>
     <published>2020-02-21T14:08:14.000Z</published>
     <updated>2020-07-10T04:03:49.491Z</updated>
     
@@ -85,8 +85,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://shen-yu.gitee.io/2020/02/21/hello-world/"/>
-    <id>https://shen-yu.gitee.io/2020/02/21/hello-world/</id>
+    <link href="https://lxying.github.io/2020/02/21/hello-world/"/>
+    <id>https://lxying.github.io/2020/02/21/hello-world/</id>
     <published>2020-02-21T11:59:23.204Z</published>
     <updated>2020-02-21T11:59:23.204Z</updated>
     
